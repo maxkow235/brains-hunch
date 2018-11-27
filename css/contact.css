@@ -1,0 +1,17 @@
+.page-header {
+	height: 60px;
+}
+
+.caption p {
+  font-size: 35.65px;
+  color: white;
+}
+
+.caption {
+	padding-bottom: 70px;
+}
+
+.caption .news {
+	font-size: 22px;
+	font-family: "CooperHewitt Light";
+}

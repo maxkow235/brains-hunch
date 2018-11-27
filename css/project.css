@@ -1,0 +1,98 @@
+.page-header {
+	height: 60px;
+}
+
+.img-fluid {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.captions h3, .captions p {
+	font-size: 35.65px;
+	color: white;
+	font-family: "CooperHewitt Medium";
+}
+
+.captions p {
+	margin-top: 1em;
+}
+
+.desc {
+	color: white;
+	margin-top: 0;
+	font-size: 22.918px;
+}
+
+.navbar-brand .company {
+	color: white;
+	font-family: "CooperHewitt Light";
+}
+
+.what-we-did p {
+	color: white;
+	font-size: 22px;
+}
+
+.what-we-did p span {
+	font-family: "CooperHewitt Medium";
+	color: yellow;
+}
+
+.more {
+	font-size: 22px;
+	color: yellow;
+}
+
+.credits p {
+  font-size: 22.918px;
+  color: white;
+  font-family: "CooperHewitt Light";
+ 
+}
+
+.text-yellow {
+	color: yellow;
+}
+
+.credits {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.credits p .text-white {
+	font-family: "CooperHewitt Bold";
+}
+
+.credits p .text-yellow {
+	font-family: "CooperHewitt Bold";
+	text-transform: uppercase;
+	
+}
+
+.embed-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.more:hover {
+	color: yellow;
+}
+
+.more:focus {
+	color: yellow;
+}
+
+.captions h3 {
+	color: yellow;
+}
